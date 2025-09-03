@@ -2,7 +2,7 @@
     "routes":[
         {
             "src":"/",
-            "dest":"/telegram/src/App.js"
+            "dest":"/telegram/telegram/public/index.html"
         }
     ]
 }
