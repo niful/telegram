@@ -2,7 +2,7 @@
     "routes":[
         {
             "src":"/",
-            "dest":"/cms.html"
+            "dest":"/telegram/public/index.html"
         }
     ]
 }
